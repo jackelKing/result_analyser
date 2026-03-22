@@ -25,7 +25,7 @@ streamlit run app/main.py
 ## Input Excel Format
 | Name | USN | Class | Section | Sem1 result | Sem2 result | ... | Sem6 result | CGPA |
 |------|-----|-------|---------|-------------|-------------|-----|-------------|------|
-| Student Name | 1RFxxCSxxx | VI | B | https://drive.google.com/... | ... | | |
+| Student Name | 1RFxxCSxxx | VI | B | ... | ... | | |
 
 ## Grade → Points (VTU)
 | Grade | O | A+ | A | B+ | B | C | P | F |
